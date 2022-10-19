@@ -1,0 +1,799 @@
+body {
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    overflow-x: hidden;
+}
+
+.Rectangle27 {
+    position: absolute;
+    width: 100%;
+    height: 94px;
+    left: 0;
+    top: 0;
+
+    background: rgba(196, 189, 239, 0.21);
+}
+
+/*.Desktop-1 {*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    !*height: 1990px;*!*/
+/*}*/
+
+.Ellipse6 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 167px;
+    top: 32px;
+
+    border-radius: 20px;
+    background: #D9D9D9;
+
+}
+
+.JOBnPOINT {
+    position: absolute;
+    box-sizing: border-box;
+    width: 211px;
+    height: 28px;
+    left: 235px;
+    top: 37px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+
+    letter-spacing: 0.2em;
+
+    color: #000000;
+
+    text-shadow: 0 0 30px
+        rgba(250, 250, 250, 0.46);
+
+}
+
+
+.CompanyNProffesions {
+    position: absolute;
+    width: 307px;
+    height: 36px;
+    left: 10px;
+    top: -1px;
+}
+
+.Rectangle7 {
+    position: absolute;
+    width: 142px;
+    height: 34px;
+    left: 486px;
+    top: 34px;
+
+    background: #F3F1FC;
+    border: 1px solid #563E99;
+    box-shadow: 0px 0px 0px rgba(75, 46, 158, 0.05), 0px 4px 15px rgba(58, 34, 126, 0.31);
+    border-radius: 15px;
+}
+
+.Company {
+    position: absolute;
+    width: 100px;
+    height: 23.57px;
+    left: 26px;
+    top: 7px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Rectangle10 {
+    position: absolute;
+    width: 142px;
+    height: 34px;
+    left: 649px;
+    top: 34px;
+
+    background: #F3F1FC;
+    border: 1px solid #563E99;
+    box-shadow: 0px 0px 0px rgba(75, 46, 158, 0.05),
+        0 4px 15px rgba(58, 34, 126, 0.31);
+    border-radius: 15px;
+
+}
+
+.Professions {
+    position: absolute;
+    width: 112px;
+    height: 23.57px;
+    left: 20px;
+    top: 7px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Group2 {
+    position: absolute;
+    width: 149px;
+    height: 55.29px;
+    left: 100px;
+    top: 1px;
+}
+
+.Rectangle2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 149px;
+    height: 55.29px;
+    left: 1263px;
+    top: 18px;
+
+    background: rgba(196, 189, 239, 0.06);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 10px rgba(79, 55, 149, 0.49);
+    border-radius: 45px;
+}
+
+.CV {
+    position: absolute;
+    width: 107px;
+    height: 22px;
+    left: 20px;
+    top: 14px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+
+    color: rgba(79, 55, 149, 0.96);
+    text-shadow: 0px 4px 4px rgba(49, 43, 83, 0.08);
+}
+
+.personal-page-svgrepo-com2 {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 1543px;
+    top: 26px;
+
+    filter: drop-shadow(0px 4px 50px rgba(0, 0, 0, 0.25));
+}
+
+.Vector1 {
+    position: absolute;
+    width: 9px;
+    height: 4px;
+    left: 1590px;
+    top: 37px;
+}
+
+.backgroundAfter {
+    background: #F5F5F5;
+}
+
+.Everybody {
+    position: absolute;
+    /*width: 498px;*/
+    /*height: 33px;*/
+    /*left: 610px;*/
+    top: 13px;
+}
+
+.everyJob {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 600px;
+    top: 110px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.everyUpper {
+    position: absolute;
+    width: 207px;
+    height: 30px;
+    left: 890px;
+    top: 110px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.22em;
+
+    background: linear-gradient(274.77deg,
+        rgba(93, 42, 236, 0.9504) 11.68%,
+        rgba(58, 34, 126, 0.9216) 82.17%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.filter {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 1060px;
+    top: 134px;
+}
+
+.Frame3 {
+    position: absolute;
+    width: 467px;
+    height: 198px;
+    left: 140px;
+    top: 231px;
+
+    background: #D9D9D9;
+    border-radius: 30px;
+}
+
+.Frame6 {
+    position: absolute;
+    width: 467px;
+    height: 198px;
+    left: 632px;
+    top: 231px;
+
+    background: #D9D9D9;
+    border-radius: 30px;
+}
+
+.Frame7 {
+    position: absolute;
+    width: 467px;
+    height: 198px;
+    left: 1120px;
+    top: 231px;
+
+    background: #D9D9D9;
+    border-radius: 30px;
+}
+
+.Rectangle277 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 149px;
+    height: 50px;
+    left: 211px;
+    top: 481px;
+
+    border-radius: 25px;
+    background: linear-gradient(93.19deg, #CBB8FF -63.38%, #E3DDFF 146.35%);
+    border: 2px solid rgba(131, 99, 222, 0.96);
+    filter: blur(5px);
+}
+
+.interns {
+    position: absolute;
+    width: 74px;
+    height: 13px;
+    left: 245px;
+    top: 486px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle28 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 143px;
+    height: 48px;
+    left: 369px;
+    top: 483px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle37 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 529px;
+    top: 483px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle39 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 694px;
+    top: 483px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;
+    border-radius: 25px;
+}
+
+.Rectangle38 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 859px;
+    top: 482px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle40 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 1024px;
+    top: 481px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;
+    border-radius: 25px;
+}
+
+.Rectangle41 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 1193px;
+    top: 481px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle42 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 1354px;
+    top: 482px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;
+    border-radius: 25px;
+}
+
+.Rectangle35 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 147px;
+    height: 50px;
+    left: 297px;
+    top: 541px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle36 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 460px;
+    top: 543px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;
+    border-radius: 25px;
+}
+
+.Rectangle29 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 624px;
+    top: 541px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle30 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 50px;
+    left: 787px;
+    top: 542px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;;
+    border-radius: 25px;
+}
+
+.Rectangle31 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 154px;
+    height: 52px;
+    left: 950px;
+    top: 541px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle32 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 143px;
+    height: 48px;
+    left: 1119px;
+    top: 544px;
+
+    background: #FFFFFF;
+    border: 1px solid #8869DF;
+    border-radius: 25px;
+}
+
+.Rectangle33 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 143px;
+    height: 48px;
+    left: 1277px;
+    top: 545px;
+
+    background: #FFFFFF;
+    border: 1px solid #F00303;
+    border-radius: 25px;
+}
+
+.Rectangle28T {
+    position: absolute;
+    width: 11px;
+    height: 13px;
+    left: 433px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle37T {
+    position: absolute;
+    width: 67px;
+    height: 13px;
+    left: 571px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle39T {
+    position: absolute;
+    width: 63px;
+    height: 13px;
+    left: 737px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle38T {
+    position: absolute;
+    width: 40px;
+    height: 13px;
+    left: 912px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle40T {
+    position: absolute;
+    width: 44px;
+    height: 13px;
+    left: 1076px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle41T {
+    position: absolute;
+    width: 73px;
+    height: 13px;
+    left: 1233px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle42T {
+    position: absolute;
+    width: 69px;
+    height: 13px;
+    left: 1394px;
+    top: 491px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle35T {
+    position: absolute;
+    width: 65px;
+    height: 13px;
+    left: 339px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle36T {
+    position: absolute;
+    width: 45px;
+    height: 13px;
+    left: 512px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle29T {
+    position: absolute;
+    width: 56px;
+    height: 13px;
+    left: 670px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle30T {
+    position: absolute;
+    width: 80px;
+    height: 13px;
+    left: 822px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle31T {
+    position: absolute;
+    width: 54px;
+    height: 13px;
+    left: 999px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle32T {
+    position: absolute;
+    width: 90px;
+    height: 13px;
+    left: 1148px;
+    top: 551px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.Rectangle33T {
+    position: absolute;
+    width: 43px;
+    height: 13px;
+    left: 1325px;
+    top: 552px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+.topVacancy {
+    position: absolute;
+    width: 186px;
+    height: 30px;
+    left: 760px;
+    top: 643px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.Frame10 {
+    position: absolute;
+    width: 888px;
+    height: 65px;
+    left: 419px;
+    top: 733px;
+
+    background: linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    #D9D9D9;
+}
+
+.Frame11 {
+    position: absolute;
+    width: 888px;
+    height: 65px;
+    left: 419px;
+    top: 843px;
+
+    background: linear-gradient(0deg,
+    #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    #D9D9D9;
+}
+
+.Frame12 {
+    position: absolute;
+    width: 888px;
+    height: 65px;
+    left: 419px;
+    top: 943px;
+
+    background: linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    #D9D9D9;
+}
+
+.Frame13 {
+    position: absolute;
+    width: 888px;
+    height: 65px;
+    left: 419px;
+    top: 1044px;
+
+    background: linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9),
+    #D9D9D9;
+}
